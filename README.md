@@ -4,7 +4,7 @@
 #### {Platform for my ideologies}, {26th May 2019}
 #### By **{List of contributors}**
 ## Description
-{}
+{Platform for problem solving ideologies in coded form.}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
