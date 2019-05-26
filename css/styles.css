@@ -13,3 +13,9 @@ header{
 width: 96%;
 float: right;
 }
+#about me h3{
+  text-align: right;
+  display: block;
+  right: auto;
+  float: left;
+}

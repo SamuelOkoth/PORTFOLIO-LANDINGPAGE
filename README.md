@@ -14,10 +14,13 @@
 
 ## Technologies Used
 html
+
 css
 ## Support and contact details
-{Incase of any questions on the codes feel free to contact me}
+{email address-okothsamuel78@gmail.com}
+FB:Samuel OKOTH
++254722615421
 
 ### License
 *{MIT License}*
-Copyright (c) 2019 **{List of contributors or company name}**
+Copyright (c) 2019 **{SAFEMU}**
