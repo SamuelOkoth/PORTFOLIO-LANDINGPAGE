@@ -15,10 +15,29 @@ width: 96%;
  h3{
 color: #f9a581;
 }
-.logo2{
-  display: flex;
-  flex-direction: column;
-  float:right;
-  align-items: right;
-  padding-top: 3%;
+
+#fb{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+right:100px;
+margin-left: 10%;
+}
+.about {
+  display:flex;
+
+}
+#image {
+  flex:25%;
+  padding: 20px;
+}
+#aboutme {
+  flex:75%;
+}
+#contacts{
+background-color: rgb(249, 165, 129);
+text-align: center;
+font-size:40px;
+background-position: relative;
 }
