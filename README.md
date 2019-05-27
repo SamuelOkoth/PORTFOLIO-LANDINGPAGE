@@ -6,11 +6,8 @@
 ## Description
 {Platform for problem solving ideologies in coded form.}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* Fork:top right corner of the file
+* Clone/Download:click on the download button 
 
 ## Technologies Used
 html
